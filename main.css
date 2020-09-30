@@ -1,0 +1,64 @@
+body {
+    background-image: url("images/texture.png");
+    background-repeat: repeat;
+}
+.representative__bio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    padding: 1em;
+    margin: 0 3em;
+    font-style: italic;
+}
+
+.bio-container {
+    display: flex;
+}
+
+.representative__blurb {
+    width: 40%;
+    margin-left: 3em;
+}
+
+.construction{
+    text-align: center;
+}
+
+h2 {
+    /* text-align: center; */
+}
+
+/* .bio-wrapper {
+    margin: auto;
+    font-size: x-large;
+    text-align: center;
+} */
+
+/* .bio {
+    text-align: center;
+}
+
+.headshot {
+    margin: 1em;
+}
+
+.representative__career {
+    justify-content: space-evenly;
+    margin: 0 20%;
+} */
+
+/* .representative__committees {
+    text-align: center;
+    margin: 0 auto;
+    list-style: none;
+} */
+
+/* .committees {
+    text-align: center;
+    margin: 0 auto;
+} */
+
+/* .representative__legislation {
+} */
